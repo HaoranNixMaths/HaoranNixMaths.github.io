@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Haoran's homepage!
-
-To be edited.
+I am currently a 1st year PhD student at the MathSys CDT. My research interests are distributed at numerical analysis, machine learning algorithms, neural networks, natural language processing, and optimal transport.
