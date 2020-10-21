@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-Term1-teaching-1
 venue: "Warwick University"
-date: 2020
+date: 2020-10-05
 location: "Coventry, UK"
 ---
 
